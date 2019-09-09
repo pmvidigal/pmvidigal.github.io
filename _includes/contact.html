@@ -35,7 +35,13 @@
     <li class="researchgate"><i class="fas fa-globe-americas"></i>
       <a href="https://www.researchgate.net/profile/{{ sidebar.researchgate }}" target="_blank"> Research Gate</a>
     </li>
-    {% endif %}    
+    {% endif %}
+    
+    {% if sidebar.googlescholar %}
+    <li class="googlescholar"><i class="fas fa-globe-americas"></i>
+      <a href="https://scholar.google.com.br/citations?user={{ sidebar.googlescholar }}" target="_blank"> Google Scholar</a>
+    </li>
+    {% endif %}  
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
