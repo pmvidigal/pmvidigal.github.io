@@ -13,18 +13,13 @@ sidebar:
 
     # Sidebar links
     email: pedro.vidigal@ufv.br
-    phone: +55 31 3612 3010
-    website: blog.webjeda.com #do not add http://
+    linkedin: pedro-marcus-vidigal-56032350
+    
+    orcid: 
     researchgate: Pedro_Marcus_Vidigal #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
+    googleacademic: 
+   
+    
     languages:
       - idiom: Brazilian Portuguese
         level: Native
