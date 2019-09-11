@@ -1,74 +1,81 @@
-
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Pedro M. P. Vidigal
-    tagline: Biologist | Bionformatician
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: pedro.vidigal@ufv.br
-    linkedin: pedro-marcus-vidigal-56032350
-    
-    orcid: 0000-0002-5116-9856
-    researcherid: G-3100-2011
-    researchgate: Pedro_Marcus_Vidigal #do not add http://
-    googlescholar: M5ACF1IAAAAJ 
-   
-    
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
     languages:
-      - idiom: Brazilian Portuguese
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
         level: Professional
+
+      - idiom: Spanish
+        level: Professional
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-        I am a Biologist working at <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV) </a>.
-        My work involves providing support on analysis of biological data using bioinformatics. Most of supported research
-        projects are related to molecular phylogenetics, microbial genomics and metagenomics. I am also a Research Associate
-        at <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program </a> at UFV, working in
-        collaboration with other breeding programs of the university. My research is centered on un reveal the genomic
-        complexity of sugarcane and its relation with agronomic traits.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: <a href="http://www.posgenetica.ufv.br/" target="_blank">DSc in Genetics and Breeding</a>
-      university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
-      time: 2013 - 2016
-      advisor: <a href="https://www.researchgate.net/profile/Luiz_Peternelli" target="_blank"> Luiz Alexandre Peternelli </a>
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        <br>Describe your study here lorem ipsum dolor sit amet, consectetuer
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Sugarcane genomics
           - Bullet point
-    - degree: <a href="http://www.posbqa.ufv.br/" target="_blank">MSc in Agricultural Biochemistry</a>
-      university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
-      time: 2008 - 2010
-      advisor: Marcia Rogeria de Almeida
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        <br>My master's degree research was centered on epidemiology and evolution of Porcine circovirus-2 (PCV-2).
-        PCV-2 is a virus associated with a number of different syndromes in pigs known as Porcine Circovirus Associated
-        Diseases (PCVAD). Since its identification and characterization in the early 1990s, PCV-2 has achieved a worldwide
-        distribution, becoming endemic in most pig-producing countries, and is still considered as an important cause of
-        losses on pig farms. By using molecular phylogenetics and phylogeography approaches, my research found correlations 
-        among the genealogy of PCV-2 isolates and its geographical distribution with the live pig trading statistics 
-        available at United Nations Comtrade Database, highlighting the importance of the movement of animals around
-        the world in the emergence of new pathogens, and showing the need for effective sanitary barriers when trading
-        live animals.
-        
-          - Porcine circovirus-2
-          - Molecular phylogenetics and phylogeography
-          - Dispersal routes
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -85,6 +92,28 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
@@ -96,7 +125,23 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
- publications:
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -106,6 +151,14 @@ projects:
       - title: The Art of Computer Programming
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
