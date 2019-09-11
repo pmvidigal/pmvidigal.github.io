@@ -44,7 +44,7 @@ education:
       time: 2013 - 2016
       advisor: <a href="https://www.researchgate.net/profile/Luiz_Peternelli" target="_blank"> Luiz Alexandre Peternelli </a>
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        <br>Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -78,7 +78,7 @@ education:
       time: 2003 - 2008
       advisor: Marcia Rogeria de Almeida
       details: |
-      My bachelor’s degree research was centered on characterization of Porcine circovirus-2 (PCV2) genome using 
+      <br>My bachelor’s degree research was centered on characterization of Porcine circovirus-2 (PCV2) genome using 
       bioinformatic approaches. Despite its very compact circular genome containing 1,768 nt, PCV2 has several Open 
       Reading Frames (ORFs) that had not been characterized at the time of my research. Therefore, my bachelor's 
       monograph was foccused on prediction and annotation of hypotheticall ORFs of PCV-2 genome.
