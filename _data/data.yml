@@ -41,13 +41,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I am a Biologist working at <a href="http://www.ufv.br"> Federal University of Vicosa (UFV) </a>. My work involves providing support on analysis of biological data using bioinformatics. Most of supported research projects are related to molecular phylogeny, microbial genomics and metagenomics. I am also a Research Associate at Sugarcane Breeding Program at UFV, working in collaboration with other breeding programs. My research is centered on un reveal the genomic complexity of sugarcane and its relation with agronomic traits.
+        I am a Biologist working at <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV) </a>. My work involves providing support on analysis of biological data using bioinformatics. Most of supported research projects are related to molecular phylogenetics, microbial genomics and metagenomics. I am also a Research Associate at <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program </a> at UFV, working in collaboration with other breeding programs of the university. My research is centered on un reveal the genomic complexity of sugarcane and its relation with agronomic traits.
 
 
 education:
     - degree: DSc in Genetics and Breeding
       university: Federal University of Vicosa
       time: 2013 - 2016
+      advisor: Luiz Alexandre Peternelli
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -55,7 +56,7 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
+          - Sugarcane genomics
           - Bullet point
 
     - degree: DSc in Agricultural Biochemistry
