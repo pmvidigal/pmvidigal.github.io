@@ -1,7 +1,4 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
+###################################################
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
@@ -27,7 +24,7 @@ sidebar:
 
       - idiom: English
         level: Professional
-
+###################################################
 career-profile:
     title: Career Profile
     summary: |
@@ -36,6 +33,7 @@ career-profile:
         NuBioMol is multi-user lab which supports research projects related to genomics, metabolomics, proteomics and transcriptomics.
         <br><br>I am also a Research Associate at <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program </a>
         of UFV. My research is centered on un reveal the genomic complexity of sugarcane and its relation with agronomic traits.
+###################################################
 education:
     - degree: <a href="http://www.posgenetica.ufv.br/" target="_blank">DSc in Genetics and Breeding</a>
       university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
@@ -48,8 +46,10 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
           
-          - Sugarcane genomics
-          - Bullet point
+          - Sugarcane
+          - Molecular breeding and genomics
+          - Bioinformatics
+
     - degree: <a href="http://www.posbqa.ufv.br/" target="_blank">MSc in Agricultural Biochemistry</a>
       university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
       time: 2008 - 2010
@@ -66,8 +66,9 @@ education:
         live animals.
         
           - Porcine circovirus-2
-          - Molecular phylogenetics and phylogeography
-          - Dispersal routes
+          - Molecular epidemiology
+          - Phylogenetics and phylogeography
+
     - degree: BSc in Biological Sciences
       university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
       time: 2003 - 2008
@@ -81,6 +82,7 @@ education:
           - Porcine circovirus-2
           - Genome annotation
           - Bioinformatics
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
