@@ -68,7 +68,7 @@ education:
         the world in the emergence of new pathogens, and showing the need for effective sanitary barriers when trading
         live animals.
         
-          - Porcine circoviru-2
+          - Porcine circovirus-2
           - Molecular phylogenetics and phylogeography
           - Dispersal routes
      
@@ -78,15 +78,7 @@ education:
       time: 2003 - 2008
       advisor: Marcia Rogeria de Almeida
       details: |
-      <br>My master's degree research was centered on epidemiology and evolution of Porcine circovirus-2 (PCV-2).
-      PCV-2 is a My bachelor degree research was centered on characterization of Porcine circovirus-2 (PCV-2) genome using
-      bioinformatic approaches. Despite its very compact circular genome containing 1,768 nt, PCV2 has several Open
-      Reading Frames (ORFs) that had not been characterized at the time of my research. Therefore, my bachelor's
-      monograph was foccused on prediction and annotation of hypotheticall ORFs of PCV-2 genome.
 
-          - Porcine circoviru-2
-          - Genome annotation
-          - Bioinformatics
 
 experiences:
     - role: Lead Developer
