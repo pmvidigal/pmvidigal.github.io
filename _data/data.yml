@@ -12,37 +12,21 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
+    email: pedro.vidigal@ufv.br
+    linkedin: pedro-marcus-vidigal-56032350
+    
+    orcid: 0000-0002-5116-9856
+    researcherid: G-3100-2011
+    researchgate: Pedro_Marcus_Vidigal #do not add http://
+    googlescholar: M5ACF1IAAAAJ 
+   
+    
     languages:
-      - idiom: English
+      - idiom: Brazilian Portuguese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
