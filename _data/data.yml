@@ -62,7 +62,8 @@ education:
     - degree: MSc in Agricultural Biochemistry
       university: Federal University of Vicosa
       time: 2008 - 2010
-      details: My master's degree research was centered on epidemiology and evolution of Porcine circovirus-2 (PCV-2).
+      details: |
+        My master's degree research was centered on epidemiology and evolution of Porcine circovirus-2 (PCV-2).
         PCV-2 is a virus associated with a number of different syndromes in pigs known as Porcine Circovirus Associated
         Diseases (PCVAD). Since its identification and characterization in the early 1990s, PCV-2 has achieved a worldwide
         distribution, becoming endemic in most pig-producing countries, and is still considered as an important cause of
