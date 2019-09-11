@@ -38,28 +38,24 @@ career-profile:
         collaboration with other breeding programs of the university. My research is centered on un reveal the genomic
         complexity of sugarcane and its relation with agronomic traits.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: <a href="http://www.posbqa.ufv.br/" target="_blank">MSc in Agricultural Biochemistry</a>
+      university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
+      time: 2008 - 2010
+      advisor: Marcia Rogeria de Almeida
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        <br>My master's degree research was centered on epidemiology and evolution of Porcine circovirus-2 (PCV-2).
+        PCV-2 is a virus associated with a number of different syndromes in pigs known as Porcine Circovirus Associated
+        Diseases (PCVAD). Since its identification and characterization in the early 1990s, PCV-2 has achieved a worldwide
+        distribution, becoming endemic in most pig-producing countries, and is still considered as an important cause of
+        losses on pig farms. By using molecular phylogenetics and phylogeography approaches, my research found correlations 
+        among the genealogy of PCV-2 isolates and its geographical distribution with the live pig trading statistics 
+        available at United Nations Comtrade Database, highlighting the importance of the movement of animals around
+        the world in the emergence of new pathogens, and showing the need for effective sanitary barriers when trading
+        live animals.
+        
+          - Porcine circovirus-2
+          - Molecular phylogenetics and phylogeography
+          - Dispersal routes
 experiences:
     - role: Lead Developer
       time: 2015 - Present
