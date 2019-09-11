@@ -32,11 +32,10 @@ career-profile:
     title: Career Profile
     summary: |
         I am a Biologist working at <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV) </a>.
-        My work involves providing support on analysis of biological data using bioinformatics. Most of supported research
-        projects are related to molecular phylogenetics, microbial genomics and metagenomics. I am also a Research Associate
-        at <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program </a> at UFV, working in
-        collaboration with other breeding programs of the university. My research is centered on un reveal the genomic
-        complexity of sugarcane and its relation with agronomic traits.
+        My work involves providing support on analysis of biological data, acting as a bioinformatician specialist at <a href="https://www.nubiomol.ufv.br" target="_blank"> NuBioMol</a> lab.
+        Most of research projects supported by NuBioMol are related to molecular phylogenetics, microbial genomics and metagenomics.
+        <br>I am also a Research Associate at <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program </a>
+        of UFV. My research is centered on un reveal the genomic complexity of sugarcane and its relation with agronomic traits.
 education:
     - degree: <a href="http://www.posgenetica.ufv.br/" target="_blank">DSc in Genetics and Breeding</a>
       university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
