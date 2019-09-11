@@ -38,6 +38,19 @@ career-profile:
         collaboration with other breeding programs of the university. My research is centered on un reveal the genomic
         complexity of sugarcane and its relation with agronomic traits.
 education:
+    - degree: <a href="http://www.posgenetica.ufv.br/" target="_blank">DSc in Genetics and Breeding</a>
+      university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
+      time: 2013 - 2016
+      advisor: <a href="https://www.researchgate.net/profile/Luiz_Peternelli" target="_blank"> Luiz Alexandre Peternelli </a>
+      details: |
+        <br>Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          
+          - Sugarcane genomics
+          - Bullet point
     - degree: <a href="http://www.posbqa.ufv.br/" target="_blank">MSc in Agricultural Biochemistry</a>
       university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
       time: 2008 - 2010
