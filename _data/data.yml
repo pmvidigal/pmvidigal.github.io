@@ -29,7 +29,7 @@ career-profile:
     title: Career Profile
     summary: |
         I am a Biologist working at <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV) </a>.
-        My work involves providing support on analysis of biological data, acting as a bioinformatician specialist at <a href="https://www.nubiomol.ufv.br" target="_blank"> NuBioMol</a> lab.
+        My job involves providing support on analysis of biological data, working as a bioinformatician specialist at <a href="https://www.nubiomol.ufv.br" target="_blank"> NuBioMol</a> lab.
         NuBioMol is multi-user lab which supports research projects related to genomics, metabolomics, proteomics and transcriptomics.
         <br><br>I am also a Research Associate at <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program </a>
         of UFV. My research is centered on un reveal the genomic complexity of sugarcane and its relation with agronomic traits.
@@ -82,45 +82,20 @@ education:
           - Porcine circovirus-2
           - Genome annotation
           - Bioinformatics
-
+###################################################
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Biologist
+      time: 2014 - Present
+      company: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Bioinformatics
+    - role: Research Fellow
+      time: 2012 - 2010
+      company: <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program </a>, UFV
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Bioinformatics
+###################################################
+
 projects:
     title: Projects
     intro: >
