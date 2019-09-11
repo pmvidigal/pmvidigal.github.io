@@ -77,8 +77,8 @@ education:
       university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
       time: 2003 - 2008
       advisor: Marcia Rogeria de Almeida
-      details: |
-      <br>My bachelor’s degree research was centered on characterization of Porcine circovirus-2 (PCV2) genome using 
+      details: | 
+      <br>My bachelor's degree research was centered on characterization of Porcine circovirus-2 (PCV2) genome using 
       bioinformatic approaches. Despite its very compact circular genome containing 1,768 nt, PCV2 has several Open 
       Reading Frames (ORFs) that had not been characterized at the time of my research. Therefore, my bachelor's 
       monograph was foccused on prediction and annotation of hypotheticall ORFs of PCV-2 genome.
