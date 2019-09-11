@@ -29,22 +29,22 @@ career-profile:
     title: Career Profile
     summary: |
         I am a Biologist working at <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV) </a>. My job involves providing support on analysis of biological data, working as a bioinformatician specialist at <a href="https://www.nubiomol.ufv.br" target="_blank"> NuBioMol</a> lab. NuBioMol is multi-user lab which supports research projects related to genomics, metabolomics, proteomics and transcriptomics.
-        <br><br>I am also a Research Associate at <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program </a> of UFV. My research is centered on un reveal the genomic complexity of sugarcane and its relation with agronomic traits.
+        <br><br>I am also a Research Associate at <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program of UFV</a>. My research is centered on un reveal the genomic complexity of sugarcane and its relation with agronomic traits.
 ###################################################
 experiences:
     - role: Biologist
       time: 2014 - Present
-      company: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV) </a>
+      company: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV)</a>
 
     - role: Research Fellow
       time: 2012 - 2010
-      company: <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program of UFV </a>
+      company: <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program of UFV</a>
 ###################################################
 education:
     - degree: <a href="http://www.posgenetica.ufv.br/" target="_blank">DSc in Genetics and Breeding</a>
-      university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
+      university: <a href="https://www.ufv.br" target="_blank">Federal University of Vicosa</a>
       time: 2013 - 2016
-      advisor: <a href="https://www.researchgate.net/profile/Luiz_Peternelli" target="_blank"> Luiz Alexandre Peternelli </a>
+      advisor: <a href="https://www.researchgate.net/profile/Luiz_Peternelli" target="_blank">Luiz Alexandre Peternelli</a>
       details: |
         <br>Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -57,19 +57,11 @@ education:
           - Bioinformatics
 
     - degree: <a href="http://www.posbqa.ufv.br/" target="_blank">MSc in Agricultural Biochemistry</a>
-      university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
+      university: <a href="https://www.ufv.br" target="_blank">Federal University of Vicosa</a>
       time: 2008 - 2010
       advisor: Marcia Rogeria de Almeida
       details: |
-        <br>My master's degree research was centered on epidemiology and evolution of Porcine circovirus-2 (PCV-2).
-        PCV-2 is a virus associated with a number of different syndromes in pigs known as Porcine Circovirus Associated
-        Diseases (PCVAD). Since its identification and characterization in the early 1990s, PCV-2 has achieved a worldwide
-        distribution, becoming endemic in most pig-producing countries, and is still considered as an important cause of
-        losses on pig farms. By using molecular phylogenetics and phylogeography approaches, my research found correlations 
-        among the genealogy of PCV-2 isolates and its geographical distribution with the live pig trading statistics 
-        available at United Nations Comtrade Database, highlighting the importance of the movement of animals around
-        the world in the emergence of new pathogens, and showing the need for effective sanitary barriers when trading
-        live animals.
+
         
           - Porcine circovirus-2
           - Molecular epidemiology
@@ -80,17 +72,12 @@ education:
       time: 2003 - 2008
       advisor: Marcia Rogeria de Almeida
       details: |
-       <br>My bachelor's degree research was centered on characterization of Porcine circovirus-2 (PCV-2) genome using
-       bioinformatic approaches. Despite its very compact circular genome containing 1,768 nt, PCV2 has several Open
-       Reading Frames (ORFs) that had not been characterized at the time of my research. Therefore, my bachelor's
-       monograph was foccused on prediction and annotation of hypotheticall ORFs of PCV-2 genome.
+        <br>My master's degree research was centered on epidemiology and evolution of Porcine circovirus-2 (PCV-2). PCV-2 is a virus associated with a number of different syndromes in pigs known as Porcine Circovirus Associated Diseases (PCVAD). Since its identification and characterization in the early 1990s, PCV-2 has achieved a worldwide distribution, becoming endemic in most pig-producing countries, and is still considered as an important cause of losses on pig farms. By using molecular phylogenetics and phylogeography approaches, my research found correlations among the genealogy of PCV-2 isolates and its geographical distribution with the live pig trading statistics available at United Nations Comtrade Database, highlighting the importance of the movement of animals around the world in the emergence of new pathogens, and showing the need for effective sanitary barriers when trading live animals.
 
           - Porcine circovirus-2
           - Genome annotation
           - Bioinformatics
 ###################################################
-
-
 projects:
     title: Projects
     intro: >
