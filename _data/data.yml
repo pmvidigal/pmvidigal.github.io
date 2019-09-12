@@ -48,11 +48,7 @@ education:
       time: 2013 - 2016
       advisor: <a href="https://www.researchgate.net/profile/Luiz_Peternelli" target="_blank">Luiz Alexandre Peternelli</a>
       details: |
-        <br>Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        <br>My doctorate's degree research was centered on analysis of the nuclear, chloroplastidial and mitochondrial genomes of sugarcane cultivar RB867515. This sugarcane cultivar was released by Sugarcane Breeding Program of UFV and stands out due to its good productivity in sandy and low fertility soils, being among the most planted sugarcane clones in Brazil.
           
           - Sugarcane
           - Molecular breeding and genomics
@@ -129,13 +125,13 @@ skills:
 
     toolset:
       - name: Linux Admin
-        level: 75%
+        level: 80%
       - name: Shell Script
-        level: 25%
+        level: 40%
       - name: R
-        level: 25%
+        level: 40%
       - name: Python
-        level: 5%
+        level: 10%
 ###################################################
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
