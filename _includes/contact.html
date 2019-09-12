@@ -26,19 +26,19 @@
     {% endif %}
     
     {% if sidebar.orcid %}
-    <li class="orcid"><i class="ai ai-orcid-square ai-fw ai-2x"></i>
+    <li class="orcid"><i class="ai ai-orcid-square ai-fw"></i>
       <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank"> ORCid </a>
     </li>
     {% endif %}  
     
     {% if sidebar.researcherid %}
-    <li class="researcherid"><i class="fas fa-globe-americas"></i>
-      <a href="https://publons.com/researcher/{{ sidebar.researcherid }}" target="_blank"> ResearcherID </a>
+    <li class="researcherid"><i class="ai ai-publons ai-fw"></i>
+      <a href="https://publons.com/researcher/{{ sidebar.researcherid }}" target="_blank"> Publons </a>
     </li>
     {% endif %}  
     
     {% if sidebar.researchgate %}
-    <li class="researchgate"><i class="fas fa-globe-americas"></i>
+    <li class="researchgate"><i class="ai ai-researchgate ai-fw"></i>
       <a href="https://www.researchgate.net/profile/{{ sidebar.researchgate }}" target="_blank"> Research Gate</a>
     </li>
     {% endif %}
