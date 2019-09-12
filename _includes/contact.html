@@ -1,6 +1,12 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
+    {% if sidebar.location %}
+    <li class="location"><i class="fa fa-map-marker"></i>
+      <a href="https://goo.gl/maps/T87o7LEVoiYSJQ5A8">{{ sidebar.location }}</a>
+    </li>
+    {% endif %}    
+    
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
@@ -38,7 +44,7 @@
     {% endif %}
     
     {% if sidebar.googlescholar %}
-    <li class="googlescholar"><i class="fas fa-globe-americas"></i>
+    <li class="googlescholar"><i class="fas fa-graduation-cap"></i>
       <a href="https://scholar.google.com.br/citations?user={{ sidebar.googlescholar }}" target="_blank"> Google Scholar</a>
     </li>
     {% endif %}  
