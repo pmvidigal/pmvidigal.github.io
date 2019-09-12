@@ -3,7 +3,7 @@
 
     {% if sidebar.location %}
     <li class="location"><i class="fa fa-map-marker"></i>
-      <a href="https://goo.gl/maps/T87o7LEVoiYSJQ5A8">{{ sidebar.location }}</a>
+      <a href="https://goo.gl/maps/T87o7LEVoiYSJQ5A8" target="_blank">{{ sidebar.location }}</a>
     </li>
     {% endif %}    
     
@@ -44,10 +44,16 @@
     {% endif %}
     
     {% if sidebar.googlescholar %}
-    <li class="googlescholar"><i class="fas fa-graduation-cap"></i>
+    <li class="googlescholar"><i class="ai ai-google-scholar ai-fw"></i>
       <a href="https://scholar.google.com.br/citations?user={{ sidebar.googlescholar }}" target="_blank"> Google Scholar</a>
     </li>
     {% endif %}  
+
+    {% if sidebar.lattes %}
+    <li class="lattes"><i class="ai ai-lattes ai-fw"></i>
+      <a href="http://lattes.cnpq.br/{{ sidebar.lattes }}" target="_blank"> Lattes</a>
+    </li>
+    {% endif %} 
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
