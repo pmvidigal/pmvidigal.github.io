@@ -39,8 +39,7 @@ experiences:
 
     - role: <b>Research Fellow</b>
       time: 2012 - 2010
-      company: <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program</a>, <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV)</a><hr>
-      
+      company: <a href="https://www.ridesaufv.com.br/" target="_blank">Sugarcane Breeding Program</a>, <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa (UFV)</a>
 ###################################################
 education:
     - degree: <a href="http://www.posgenetica.ufv.br/" target="_blank">DSc in Genetics and Breeding</a>
@@ -53,7 +52,6 @@ education:
           - Sugarcane
           - Molecular breeding and genomics
           - Bioinformatics      
-
     - degree: <a href="http://www.posbqa.ufv.br/" target="_blank">MSc in Agricultural Biochemistry</a>
       university: <a href="https://www.ufv.br" target="_blank">Federal University of Vicosa</a>
       time: 2008 - 2010
@@ -64,12 +62,10 @@ education:
           - Porcine circovirus-2
           - Molecular epidemiology
           - Phylogenetics and phylogeography
-
     - degree: BSc in Biological Sciences
       university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
       time: 2003 - 2008
       advisor: Marcia Rogeria de Almeida
-         <hr>
 ###################################################
 projects:
     title: Granted Patents
