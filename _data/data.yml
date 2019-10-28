@@ -69,12 +69,6 @@ education:
       university: <a href="https://www.ufv.br" target="_blank"> Federal University of Vicosa </a>
       time: 2003 - 2008
       advisor: Marcia Rogeria de Almeida
-      details: |
-        <br>My bachelor's degree research was centered on characterization of Porcine circovirus-2 (PCV-2) genome using bioinformatic approaches. Despite its very compact circular genome containing 1,768 nt, PCV2 has several Open Reading Frames (ORFs) that had not been characterized at the time of my research. Therefore, my bachelor's monograph was foccused on prediction and annotation of hypotheticall ORFs of PCV-2 genome.
-
-          - Porcine circovirus-2
-          - Genome annotation
-          - Bioinformatics
          <hr>
 ###################################################
 projects:
@@ -82,7 +76,7 @@ projects:
      
     assignments:
       - title: "<b>WO2014113855A1</b>: Recombinant antigens of porcine circovirus 2 (pcv-2) for vaccine formulations, diagnostic kit and use thereof"
-        tagline: "The present invention relates to the preparation of the recombinant antigen of the viral capsid of Porcine circovirus 2 (PCV-2) and modifications thereof, by expression in a prokaryotic system, purification in the monomer form, recovery of virus-like particles (VLPs) and their use in vaccine formulations, diagnostic kits and a system for quantifying in vaccine lots the PCV-2 antigen by means of a capture ELISA assay. The antigens and vaccine formulations can be used for immunizing animals in programs for combatting PCV-2-associated diseases in conventional swine breeding systems, and represent alternatives to the commercially available vaccines. The ELISA kit can be used for testing the quality of commercial and/or experimental vaccines against PCV-2.A responsive website template designed to help startups promote, market and sell their products.<hr>"
+        tagline: "The present invention relates to the preparation of the recombinant antigen of the viral capsid of Porcine circovirus 2 (PCV-2) and modifications thereof, by expression in a prokaryotic system, purification in the monomer form, recovery of virus-like particles (VLPs) and their use in vaccine formulations, diagnostic kits and a system for quantifying in vaccine lots the PCV-2 antigen by means of a capture ELISA assay. The antigens and vaccine formulations can be used for immunizing animals in programs for combatting PCV-2-associated diseases in conventional swine breeding systems, and represent alternatives to the commercially available vaccines. The ELISA kit can be used for testing the quality of commercial and/or experimental vaccines against PCV-2.<hr>"
 
 ###################################################
 publications:
